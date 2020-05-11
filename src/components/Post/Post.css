@@ -1,0 +1,32 @@
+.Post {
+    width:auto;
+    height: auto;
+    display: flex;
+    background:#333;
+    margin-top: 5%;
+    border-radius: 1%;
+    padding:1rem;
+    color:#ccc;
+    justify-content: space-between;
+  }
+  .PostData {
+      flex-grow: 1;
+  }
+  .EditPost {
+    width:auto;
+    height: auto;
+    background:#333;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    line-height: 40px;
+  }
+  .Yellow {
+    color:yellow;
+  }
+  textarea {
+    font-size: 1.2rem;
+  }
+  label {
+    font-weight: bold;
+  }

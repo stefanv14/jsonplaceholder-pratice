@@ -1,0 +1,13 @@
+.Add {
+  width:48%;
+  height: auto;
+  background:#333;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  line-height: 40px;
+  justify-content: space-between;
+}
+.Yellow {
+  color:yellow;
+}

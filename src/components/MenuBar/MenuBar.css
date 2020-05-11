@@ -1,0 +1,24 @@
+.Menu-List-Grow {
+    position: absolute;
+    left: -44px;
+    width:88px;
+    overflow: hidden;
+  }
+.TbSearch {
+    background:transparent;
+    padding:0.3rem;
+    border-radius: 10px;
+    border: 1px solid #333;
+  }
+.Link {
+    text-decoration: none;
+    color: #333;
+    text-align:center;
+  }
+.Nav {
+    background-color: #ffff00;
+    color:#333;
+    justify-content: space-between;
+    z-index: 1;
+    overflow: hidden;
+  }
