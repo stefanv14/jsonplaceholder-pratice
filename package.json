@@ -15,7 +15,7 @@
     "react-scripts": "3.0.1",
     "reactstrap": "^8.0.1"
   },
-  "homepage": "https://stefanv14.github.io/line-web-v1",
+  "homepage": "https://stefanv14.github.io/jsonplaceholder-pratice",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
